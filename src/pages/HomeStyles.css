@@ -1,0 +1,12 @@
+.list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list div {
+    display: flex;
+  }
+  
+  .list img {
+    border-radius: 50%;
+  }
