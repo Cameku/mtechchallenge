@@ -15,8 +15,11 @@ const InformationCard = ({ personalInfo }) => {
         }
         alt={personalInfo.gender}
       />
+     
     </div>
     <div>
+      console.log(personalInfo);
+    <p>{`${personalInfo.name.first} ${personalInfo.name.last}`}</p>
       <span>{`${personalInfo.name.first} ${personalInfo.name.last}`}</span><br />
       <span>{`${new Date(personalInfo.registered.date).getFullYear()}`}</span>
     </div>
