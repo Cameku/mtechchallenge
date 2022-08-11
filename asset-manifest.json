@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mtechchallenge/static/css/main.51af2803.css",
-    "main.js": "/mtechchallenge/static/js/main.c0e6fb69.js",
+    "main.js": "/mtechchallenge/static/js/main.915eb5a6.js",
     "static/js/787.81d5f5a3.chunk.js": "/mtechchallenge/static/js/787.81d5f5a3.chunk.js",
     "index.html": "/mtechchallenge/index.html",
     "static/media/Search.svg": "/mtechchallenge/static/media/Search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.51af2803.css.map": "/mtechchallenge/static/css/main.51af2803.css.map",
-    "main.c0e6fb69.js.map": "/mtechchallenge/static/js/main.c0e6fb69.js.map",
+    "main.915eb5a6.js.map": "/mtechchallenge/static/js/main.915eb5a6.js.map",
     "787.81d5f5a3.chunk.js.map": "/mtechchallenge/static/js/787.81d5f5a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51af2803.css",
-    "static/js/main.c0e6fb69.js"
+    "static/js/main.915eb5a6.js"
   ]
 }
